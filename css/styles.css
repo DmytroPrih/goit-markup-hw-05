@@ -556,9 +556,9 @@ img {
   color: #ffffff;
 }
 
-/* .footer-input:focus {
-  border-color: #4d5ae5;
-} */
+.footer-input:focus {
+  border-color: 2px solid #ffffff;
+}
 
 .footer-btn {
   min-width: 165px;
