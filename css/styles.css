@@ -578,11 +578,11 @@ img {
   transition: background-color var(--transition);
 }
 
-/* .footer-btn:hover,
+.footer-btn:hover,
 .footer-btn:focus {
-  background: ;
+  background: var(--active-accent-background-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-} */
+}
 
 .footer-btn-telegram {
   fill: #ffffff;
